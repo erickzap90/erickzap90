@@ -31,4 +31,4 @@ Let me introduce myself, my name is Erick Guilherme Nobre Linhares, I've been pr
 </a>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/erickzap90/erickzap90/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
